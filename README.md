@@ -1,7 +1,7 @@
 # Google Analytics
 
 
-### Stept 1 :
+#### Stept 1 :
 
 Update project's AndroidManifest.xml file to include the INTERNET and ACCESS_NETWORK_STATE permissions.
 
@@ -10,7 +10,7 @@ Update project's AndroidManifest.xml file to include the INTERNET and ACCESS_NET
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 ```
 
-### Step 2 :
+#### Step 2 :
 
 Update project and module level build.gradle files with required dependencies.
 
@@ -27,16 +27,16 @@ apply plugin: 'com.google.gms.google-services'
 compile 'com.google.android.gms:play-services-analytics:9.2.0'
 ```
 
-### Step 3 :
+#### Step 3 :
 
 Get a configuration file (google-services.json) and put in corresponding module.
 
-### Step 4 :
+#### Step 4 :
 
 Add screen tracking.
 
 ---
-### References : 
+#### References : 
 
 * [Googl Developers Site](https://developers.google.com/analytics/devguides/collection/android/v4/)
 
