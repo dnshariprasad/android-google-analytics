@@ -27,8 +27,8 @@ Add screen tracking
 
 
 
-
-## References : 
+---
+=== References : 
 
 * [Googl Developers Site](https://developers.google.com/analytics/devguides/collection/android/v4/)
 
