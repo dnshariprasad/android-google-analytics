@@ -14,6 +14,17 @@ Update project's AndroidManifest.xml file to include the INTERNET and ACCESS_NET
 
 Update project and module level build.gradle files with required dependencies.
 
+### Step 3 :
+
+Get a configuration file (google-services.json) and put in corresponding module.
+
+### Step 4 :
+
+Add screen tracking
+
+
+
+
 
 
 
