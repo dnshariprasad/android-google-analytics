@@ -20,12 +20,7 @@ Get a configuration file (google-services.json) and put in corresponding module.
 
 ### Step 4 :
 
-Add screen tracking
-
-
-
-
-
+Add screen tracking.
 
 ---
 ### References : 
