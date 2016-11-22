@@ -1,4 +1,4 @@
-# Android Google Analytics
+# Google Analytics
 
 
 ### Stept 1 :
